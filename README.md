@@ -5,8 +5,9 @@ Live Data Analyst Projects.
 1. SQL to Excel Walmart Data Analytics
 2. HR Data Analytics
 3. Your Own Investment and Budget Plan Sheet 
-4. Personal Finance --> Power Bi
-5. Cricket Prediction
+4. Your Own Expense Tracker 
+5. Personal Finance --> Power Bi
+6. Cricket Prediction
    
 
 
